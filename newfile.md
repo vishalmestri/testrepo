@@ -5,4 +5,6 @@ new file for testing checkout dot option
 change number 1 for testing revert command
 change number 2 for testing revert command
 =======
+these are new changes
+
 >>>>>>> parent of 9092709... testing revert command commit 1
